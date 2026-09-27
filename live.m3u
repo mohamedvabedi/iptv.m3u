@@ -960,7 +960,7 @@ http://154.58.202.185:8000/play/a0ah
 #EXTINF:-1  tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="Mauritania",El Medina
 http://154.58.202.185:8000/play/a0ai
 #EXTINF:-1  tvg-logo="https://i.imgur.com/nOkf1fU.png" group-title="Mauritania",Sahara 24
-http://65.108.206.29/sahara24-live/video.m3u8
+https://live.saharamedias.net:3317/live/shara24live.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC",MBC 2 HD
 http://148.163.96.58/live/MBC_2/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="MBC",MBC 2  SD
